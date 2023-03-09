@@ -1,0 +1,32 @@
+_repo: The-war-chief_70124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70124'
+language: en
+pgterms:marc905: 20230221093644burroughs
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at http://www.pgdpcanada.net
+publication_note: '  $aUnited States :$bGregg Press, $c1927, reprint 1978.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Apache Indians -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The war chief
+url: http://www.gutenberg.org/ebooks/70124
